@@ -6,8 +6,8 @@ def main():
     op = res[1]
     y = res[2]
     
-    x = int(x)
-    y = int(y)
+    x = float(x)
+    y = float(y)
 
     result = None
 
